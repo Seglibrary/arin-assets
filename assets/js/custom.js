@@ -18,14 +18,14 @@ const PRODUCTS = [
     "description": "Yüzyıllardır Akdeniz kültürünün vazgeçilmezi olan defne sabunu, saf defne yağının antiseptik ve nemlendirici özellikleriyle cildinizi korur. Egzama ve sedef hastalığı gibi cilt problemlerine destek olur. Tüm cilt tipleri için uygundur.",
     "ingredients": "Defne yağı, Defne yaprakları, Defne suyu, Sodyum Hidroksit (Kostik), Su, Hindistan Cevizi Yağı, Shea Butter Yağı, Doğal Gliserin, Tuz",
     "usage": "Islak cilde köpürterek uygulayın. Yüz, vücut ve saç yıkama için kullanılabilir.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/saf-defne/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/saf-defne/shop-main.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/saf-defne/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/saf-defne/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/saf-defne/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/saf-defne/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/saf-defne/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/saf-defne/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/saf-defne/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/saf-defne/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/saf-defne/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/saf-defne/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/saf-defne/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/saf-defne/shop-gallery-5.jpeg"
     ]
   },
   {
@@ -42,13 +42,13 @@ const PRODUCTS = [
     "usage": "Günlük kullanım için uygundur.",
     "price": 230,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/acibadem/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/acibadem/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/acibadem/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/acibadem/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/acibadem/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/acibadem/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/acibadem/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/acibadem/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/acibadem/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/acibadem/shop-gallery-4.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/acibadem/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/acibadem/shop-gallery-3.jpeg",
     "id": 2
   },
   {
@@ -64,14 +64,14 @@ const PRODUCTS = [
     "description": "Aktif karbon, ciltteki toksinleri ve fazla yağı adsorbe ederek gözeneklerin derinlemesine temizlenmesini sağlar. Yağlı ve karma ciltler için ideal olan bu sabun, sivilce ve siyah nokta oluşumunu azaltmaya yardımcı olur.",
     "ingredients": "Kömür, Su, Shea Butter Yağ, Hindistan Cevizi Yağı, Zeytinyağı, Sodyum Hidroksit (Kostik), Doğal Gliserin, Tuz",
     "usage": "Islak yüze nazikçe masaj yaparak köpürterek uygulayın. Günde 1-2 kez kullanabilirsiniz.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/aktif-karbon/shop-gallery-2.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/aktif-karbon/shop-gallery-2.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/aktif-karbon/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/aktif-karbon/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/aktif-karbon/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/aktif-karbon/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/aktif-karbon/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/aktif-karbon/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/aktif-karbon/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/aktif-karbon/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/aktif-karbon/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/aktif-karbon/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/aktif-karbon/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/aktif-karbon/shop-gallery-5.jpeg"
     ]
   },
   {
@@ -88,14 +88,14 @@ const PRODUCTS = [
     "description": "Geleneksel yöntemlerle elde edilen ardıç katranı içeren bu sabun, saç derisindeki kepek, kaşıntı ve pullanma sorunlarına karşı son derece etkilidir. Sorunlu cilt tipleri için yatıştırıcıdır.",
     "ingredients": "Zeytinyağı, Hindistan Cevizi Yağı, Ardıç katranı, Ardıç yağı, Ardıç özü, Sodyum Hidroksit (Kostik), Su, Shea Butter Yağı, Doğal Gliserin, Tuz",
     "usage": "Saç derisine köpürterek uygulayın ve birkaç dakika bekletip durulayın.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/katran/shop-gallery-1.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/katran/shop-gallery-1.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/katran/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/katran/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/katran/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/katran/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/katran/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/katran/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/katran/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/katran/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/katran/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/katran/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/katran/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/katran/shop-gallery-5.jpeg"
     ]
   },
   {
@@ -112,12 +112,12 @@ const PRODUCTS = [
     "description": "Sıvı altın olarak bilinen argan yağı ile zenginleştirilmiş formülü sayesinde saçları kökten uca onarır, cilde elastikiyet kazandırır. Yıpranmış saçlar ve kuru ciltler için mükemmeldir.",
     "ingredients": "Argan yağı, Arıtılmış su, Sodyum Hidroksit (Kostik), Zeytinyağı, Hindistan Cevizi Yağı, Shea Butter Yağı, Doğal Gliserin, Tuz",
     "usage": "Saç veya vücut üzerinde köpürterek uygulayın. Özellikle saç uçlarındaki kırıklar için besleyicidir.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/argan/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/argan/shop-gallery-3.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/argan/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/argan/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/argan/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/argan/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/argan/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/argan/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/argan/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/argan/shop-gallery-2.jpeg"
     ]
   },
   {
@@ -134,14 +134,14 @@ const PRODUCTS = [
     "description": "Doğal balın eşsiz nemlendirici ve antibakteriyel özellikleriyle zenginleştirilmiş bu sabun, cildinizi yumuşacık ve pürüzsüz hale getirir. Kuru ve hassas ciltler için özellikle önerilen, besleyici formülüyle kışın bile cildinizin kurumasını önler.",
     "ingredients": "Bal, Arıtılmış su, Sodyum Hidroksit (Kostik), Shea Butter Yağ, Hindistan Cevizi Yağı, Zeytinyağı, Doğal Gliserin, Tuz",
     "usage": "Islak cilde uygulayın. Yüz ve vücut için uygundur. Hassas ciltler için günlük kullanıma uygundur.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bal/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bal/shop-gallery-3.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bal/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bal/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bal/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bal/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bal/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bal/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bal/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bal/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bal/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bal/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bal/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bal/shop-gallery-5.jpeg"
     ]
   },
   {
@@ -157,11 +157,11 @@ const PRODUCTS = [
     "usage": "Saça köpürterek uygulayın.",
     "price": 150,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bittim/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bittim/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bittim/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bittim/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bittim/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bittim/shop-gallery-2.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/bittim/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/bittim/shop-main.jpeg",
     "id": 7
   },
   {
@@ -177,13 +177,13 @@ const PRODUCTS = [
     "description": "Biberiye bitkisinin saç köklerini güçlendirici ve saç derisini canlandırıcı etkileriyle formüle edilen bu sabun, saç bakım rutininize doğal bir çözüm sunar. Saç dökülmesini azaltır, saçlarınıza hacim ve parlaklık katar.",
     "ingredients": "Zeytinyağı, Hindistan Cevizi Yağı, Biberiye yağı, Biberiye yaprakları, Biberiye suyu, Sodyum Hidroksit (Kostik), Su, Doğal Gliserin, Tuz, Shea Butter Yağı",
     "usage": "Islak saça köpürterek uygulayın. Saç derisine masaj yaparak 2-3 dakika bekletin. Durulayin.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/biberiye/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/biberiye/shop-gallery-3.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/biberiye/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/biberiye/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/biberiye/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/biberiye/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/biberiye/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/biberiye/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/biberiye/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/biberiye/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/biberiye/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/biberiye/shop-gallery-4.jpeg"
     ]
   },
   {
@@ -200,13 +200,13 @@ const PRODUCTS = [
     "description": "Avustralya'nın Çay Ağacı (Tea Tree) yağının güçlü anti-bakteriyel ve anti-fungal özellikleriyle formüle edilen bu sabun, akneli ve problemli ciltler için en doğal çözümdür. Cildi arındırır, gözenekleri temizler.",
     "ingredients": "Çay ağacı yağı, Çay ağacı yaprakları, Arıtılmış su, Sodyum Hidroksit (Kostik), Zeytinyağı, Hindistan Cevizi Yağı, Shea Butter Yağı, Doğal Gliserin, Tuz",
     "usage": "Islak yüze nazikçe masaj yaparak uygulayın. Sivilce bölgelerinde 1 dakika bekletip durulayın.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/cayagaci/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/cayagaci/shop-main.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/cayagaci/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/cayagaci/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/cayagaci/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/cayagaci/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/cayagaci/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/cayagaci/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/cayagaci/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/cayagaci/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/cayagaci/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/cayagaci/shop-gallery-4.jpeg"
     ]
   },
   {
@@ -223,14 +223,14 @@ const PRODUCTS = [
     "description": "Çörek otunun binlerce yıldır bilinen şifalı özelliklerini cildinize taşıyan bu sabun, anti-bakteriyel ve anti-inflamatuar etkileri ile cilt sağlığını destekler. Saç bakımında da dökülmeye karşı etkili bir çözüm sunar.",
     "ingredients": "Zeytinyağı, Hindistan Cevizi Yağı, Çörek otu yağı, Çörek otu taneleri, Sodyum Hidroksit (Kostik), Su, Doğal Gliserin, Tuz",
     "usage": "Islak cilde veya saça köpürterek uygulayın. Saç bakımı için haftada 2-3 kez kullanım önerilir.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/corek-otu/shop-gallery-4.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/corek-otu/shop-gallery-4.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/corek-otu/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/corek-otu/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/corek-otu/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/corek-otu/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/corek-otu/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/corek-otu/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/corek-otu/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/corek-otu/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/corek-otu/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/corek-otu/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/corek-otu/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/corek-otu/shop-gallery-5.jpeg"
     ]
   },
   {
@@ -248,14 +248,14 @@ const PRODUCTS = [
     "usage": "Tüm vücutta günlük olarak kullanılabilir.",
     "price": 150,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/defne/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/defne/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/defne/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/defne/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/defne/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/defne/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/defne/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/defne/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/defne/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/defne/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/defne/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/defne/shop-gallery-5.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/defne/shop-gallery-2.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/defne/shop-gallery-2.jpeg",
     "id": 11
   },
   {
@@ -271,11 +271,11 @@ const PRODUCTS = [
     "description": "Tamamen doğal yollarla kurutulmuş kabak lifi, harika bir peeling (soyucu) etkisi yaratır. Sabunlarımızla birlikte kullanıldığında batıkları engeller, kan dolaşımını hızlandırır ve düzenli kullanımda selülit oluşumunu azaltmaya yardımcı olur. Sentetik süngerlerin aksine doğada çözünebilir ve cilde zarar vermez.",
     "ingredients": "%100 Doğal Kurutulmuş Kabak Lifi",
     "usage": "Sıcak suda birkaç dakika bekleterek yumuşatın. Üzerine doğal sabununuzu sürün ve dairesel hareketlerle cildinize masaj yaparak uygulayın.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kabak-lifi/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kabak-lifi/shop-main.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kabak-lifi/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kabak-lifi/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kabak-lifi/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kabak-lifi/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kabak-lifi/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kabak-lifi/shop-gallery-2.jpeg"
     ]
   },
   {
@@ -292,11 +292,11 @@ const PRODUCTS = [
     "usage": "Sabah ve akşam yüze uygulanabilir.",
     "price": 250,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/esek-sutu/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/esek-sutu/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/esek-sutu/shop-gallery-1.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/esek-sutu/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/esek-sutu/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/esek-sutu/shop-gallery-1.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/esek-sutu/shop-gallery-2.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/esek-sutu/shop-gallery-2.jpeg",
     "id": 13
   },
   {
@@ -313,14 +313,14 @@ const PRODUCTS = [
     "description": "Gerçek gül suyu ve gül yağı içeren bu zarif sabun, cildi derinlemesine nemlendirirken pürüzsüz bir dokunuş sağlar. Hoş kokusuyla rahatlatır ve yorgun cildi canlandırır.",
     "ingredients": "Zeytinyağı, Hindistan Cevizi Yağı, Shea Butter Yağ, Gül yağı, Gül suyu, Gül yaprakları, Sodyum Hidroksit (Kostik), Su, Doğal Gliserin, Tuz",
     "usage": "Islak yüze köpürterek uygulayın. Günlük yüz bakımı için idealdir.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/gul/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/gul/shop-main.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/gul/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/gul/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/gul/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/gul/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/gul/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/gul/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/gul/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/gul/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/gul/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/gul/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/gul/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/gul/shop-gallery-5.jpeg"
     ]
   },
   {
@@ -338,13 +338,13 @@ const PRODUCTS = [
     "description": "Binlerce yıllık Halep sabun geleneğinin en saf hali. Zeytinyağı ve defne yağının mükemmel uyumundan doğan bu sabun, cildi derinlemesine temizlerken doğal nemini korur. Hassas ve problemli ciltler için idealdir.",
     "ingredients": "Zeytinyağı, Defne yağı, Arıtılmış su, Sodyum Hidroksit (Kostik), Hindistan Cevizi Yağı, Shea Butter Yağı, Doğal Gliserin, Tuz",
     "usage": "Islak cilde uygulayın. Tüm cilt tipleri ve saç yıkama için uygundur. Minimum 6 ay dinlendirilmiştir.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/halep/shop-gallery-1.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/halep/shop-gallery-1.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/halep/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/halep/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/halep/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/halep/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/halep/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/halep/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/halep/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/halep/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/halep/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/halep/shop-gallery-4.jpeg"
     ]
   },
   {
@@ -360,16 +360,16 @@ const PRODUCTS = [
     "usage": "Cilde dairesel hareketlerle masaj yaparak uygulayın.",
     "price": 230,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hashasli-peeling/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hashasli-peeling/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hashasli-peeling/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hashasli-peeling/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hashasli-peeling/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hashasli-peeling/shop-gallery-5.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hashasli-peeling/shop-gallery-6.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hashasli-peeling/shop-gallery-7.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hashasli-peeling/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hashasli-peeling/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hashasli-peeling/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hashasli-peeling/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hashasli-peeling/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hashasli-peeling/shop-gallery-5.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hashasli-peeling/shop-gallery-6.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hashasli-peeling/shop-gallery-7.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hashasli-peeling/shop-gallery-1.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hashasli-peeling/shop-gallery-1.jpeg",
     "id": 16
   },
   {
@@ -386,18 +386,18 @@ const PRODUCTS = [
     "usage": "Islak saça köpürterek uygulayın, durulayın.",
     "price": 230,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-gallery-5.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-gallery-6.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-gallery-7.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-gallery-8.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-gallery-9.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-gallery-5.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-gallery-6.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-gallery-7.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-gallery-8.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-gallery-9.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/isirgan/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/isirgan/shop-main.jpeg",
     "id": 17
   },
   {
@@ -414,14 +414,14 @@ const PRODUCTS = [
     "description": "Malatya kayısısının çekirdeğinden elde edilen yağın A ve E vitaminleri açısından zengin içeriğiyle cildinizi besler ve yumuşatır. Kuru ve hassas ciltler için özel olarak formüle edilmiştir.",
     "ingredients": "Kayısı yağı, Kayısı çekirdeği tozu, Sodyum Hidroksit (Kostik), Su, Zeytinyağı, Hindistan Cevizi Yağı, Shea Butter Yağı, Doğal Gliserin, Tuz",
     "usage": "Islak cilde köpürterek uygulayın. Yüz ve vücut temizliği için uygundur.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kayisi/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kayisi/shop-gallery-3.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kayisi/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kayisi/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kayisi/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kayisi/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kayisi/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kayisi/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kayisi/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kayisi/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kayisi/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kayisi/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kayisi/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kayisi/shop-gallery-5.jpeg"
     ]
   },
   {
@@ -438,12 +438,12 @@ const PRODUCTS = [
     "usage": "Bebekler ve hassas ciltler için uygundur.",
     "price": 230,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/keci-sutu/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/keci-sutu/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/keci-sutu/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/keci-sutu/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/keci-sutu/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/keci-sutu/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/keci-sutu/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/keci-sutu/shop-gallery-2.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/keci-sutu/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/keci-sutu/shop-gallery-3.jpeg",
     "id": 19
   },
   {
@@ -461,12 +461,12 @@ const PRODUCTS = [
     "usage": "İhtiyaç duyulan bölgelere köpürterek uygulayın.",
     "price": 230,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kekik/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kekik/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kekik/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kekik/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kekik/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kekik/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kekik/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kekik/shop-gallery-2.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kekik/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kekik/shop-gallery-3.jpeg",
     "id": 20
   },
   {
@@ -482,11 +482,11 @@ const PRODUCTS = [
     "description": "İçeriğindeki mineral zengini doğal kil ile cildi derinlemesine temizler, yağ dengesini sağlar. Genişlemiş gözenekleri sıkılaştırmaya ve siyah noktaları gidermeye yardımcı olur.",
     "ingredients": "Kil, Arıtılmış su, Sodyum Hidroksit (Kostik), Shea Butter Yağ, Hindistan Cevizi Yağı, Zeytinyağı, Doğal Gliserin, Tuz",
     "usage": "Islak yüze uygulayıp bir dakika kadar maske gibi bekletin, ardından durulayın.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kil/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kil/shop-main.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kil/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kil/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kil/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kil/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kil/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kil/shop-gallery-2.jpeg"
     ]
   },
   {
@@ -503,12 +503,12 @@ const PRODUCTS = [
     "description": "Kükürtün bilinen arındırıcı etkisiyle, özellikle yağlı, akne ve sivilceye meyilli ciltlerin günlük temizliği için formüle edilmiştir. Cildin fazla yağını alarak mat bir görünüm sağlar.",
     "ingredients": "Kükürt tozu, Ardıç katranı, Arıtılmış su, Sodyum Hidroksit (Kostik), Shea Butter Yağ, Hindistan Cevizi Yağı, Zeytinyağı, Doğal Gliserin, Tuz",
     "usage": "Sadece problemli bölgelere veya tüm yüze uygulayın. Kuru ciltler için sonrasında nemlendirici önerilir.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kukurt-katran/shop-gallery-2.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kukurt-katran/shop-gallery-2.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kukurt-katran/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kukurt-katran/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kukurt-katran/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kukurt-katran/shop-gallery-3.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kukurt-katran/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kukurt-katran/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kukurt-katran/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kukurt-katran/shop-gallery-3.jpeg"
     ]
   },
   {
@@ -525,14 +525,14 @@ const PRODUCTS = [
     "description": "Tarlalardan özenle toplanan lavanta çiçeklerinin sakinleştirici etkisiyle hazırlanan bu sabun, cildinizi nazikçe temizlerken gün boyu ferahlatıcı bir koku bırakır. Stresli bir günün ardından banyo ritüelinizin vazgeçilmezi olacak.",
     "ingredients": "Zeytinyağı, Shea Butter Yağ, Hindistan Cevizi Yağı, Lavanta yağı, Lavanta çiçekleri, Sodyum Hidroksit (Kostik), Su, Doğal Gliserin, Tuz",
     "usage": "Islak cilde köpürterek uygulayın. Yüz ve vücut temizliği için uygundur. Göz çevresinden kaçının.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/lavanta/shop-gallery-2.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/lavanta/shop-gallery-2.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/lavanta/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/lavanta/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/lavanta/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/lavanta/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/lavanta/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/lavanta/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/lavanta/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/lavanta/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/lavanta/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/lavanta/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/lavanta/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/lavanta/shop-gallery-5.jpeg"
     ]
   },
   {
@@ -549,15 +549,15 @@ const PRODUCTS = [
     "description": "Gerçek limon kabukları ve limon yağıyla hazırlanan bu sabun, içerdiği C vitaminiyle cilde canlılık verir. Tazeleyici narenciye kokusuyla güne enerjik başlamanızı sağlar.",
     "ingredients": "Limon yağı, Limon kabuğu rendesi, Limon suyu, Sodyum Hidroksit (Kostik), Su, Shea Butter Yağ, Hindistan Cevizi Yağı, Zeytinyağı, Doğal Gliserin, Tuz",
     "usage": "Yüz ve vücut için uygundur. Yağlı cilt tipleri için özellikle tavsiye edilir.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/limon/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/limon/shop-gallery-3.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/limon/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/limon/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/limon/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/limon/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/limon/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/limon/shop-gallery-5.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/limon/shop-gallery-6.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/limon/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/limon/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/limon/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/limon/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/limon/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/limon/shop-gallery-5.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/limon/shop-gallery-6.jpeg"
     ]
   },
   {
@@ -574,11 +574,11 @@ const PRODUCTS = [
     "description": "Güneydoğu Anadolu'nun yabani fıstığı olan bıttım (menengiç) yağından elde edilir. Saç dökülmesini durdurmaya yardımcı olur ve ince telli saçları güçlendirerek hacim kazandırır.",
     "ingredients": "Bıttım yağı (Menengiç), Arıtılmış su, Sodyum Hidroksit (Kostik), Zeytinyağı, Hindistan Cevizi Yağı, Shea Butter Yağı, Doğal Gliserin, Tuz",
     "usage": "Saçlarınızı köpürtüp saç derisine masaj yapın. İki günde bir kullanımı idealdir.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/mardin-bittim/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/mardin-bittim/shop-main.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/mardin-bittim/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/mardin-bittim/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/mardin-bittim/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/mardin-bittim/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/mardin-bittim/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/mardin-bittim/shop-gallery-2.jpeg"
     ]
   },
   {
@@ -595,13 +595,13 @@ const PRODUCTS = [
     "usage": "Islak cilde uygulayın.",
     "price": 230,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/nar/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/nar/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/nar/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/nar/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/nar/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/nar/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/nar/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/nar/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/nar/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/nar/shop-gallery-4.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/nar/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/nar/shop-gallery-3.jpeg",
     "id": 26
   },
   {
@@ -617,10 +617,10 @@ const PRODUCTS = [
     "usage": "Banyo yaparken vücuda masaj yaparak uygulayın.",
     "price": 150,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/okaliptus/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/okaliptus/shop-main.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/okaliptus/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/okaliptus/shop-main.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/okaliptus/shop-gallery-1.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/okaliptus/shop-gallery-1.jpeg",
     "id": 27
   },
   {
@@ -636,13 +636,13 @@ const PRODUCTS = [
     "usage": "Banyoda tüm vücut için kullanabilirsiniz.",
     "price": 230,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/okyanus/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/okyanus/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/okyanus/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/okyanus/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/okyanus/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/okyanus/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/okyanus/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/okyanus/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/okyanus/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/okyanus/shop-gallery-4.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/okyanus/shop-gallery-2.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/okyanus/shop-gallery-2.jpeg",
     "id": 28
   },
   {
@@ -659,13 +659,13 @@ const PRODUCTS = [
     "description": "Papatyanın bilinen yatıştırıcı ve sakinleştirici etkisiyle, hassas ve kızarıklığa eğilimli ciltleri yormadan temizler. Cildin doğal nem bariyerini korumasına destek olur.",
     "ingredients": "Zeytinyağı, Hindistan Cevizi Yağı, Papatya Yağı, Papatya Özü, Sodyum Hidroksit (Kostik), Su, Doğal Gliserin, Tuz",
     "usage": "Islak yüze ve vücuda nazikçe uygulayın. Bebekler ve çocuklar için de kullanılabilir.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/papatya/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/papatya/shop-gallery-3.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/papatya/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/papatya/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/papatya/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/papatya/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/papatya/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/papatya/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/papatya/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/papatya/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/papatya/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/papatya/shop-gallery-4.jpeg"
     ]
   },
   {
@@ -681,13 +681,13 @@ const PRODUCTS = [
     "description": "Uzak Doğu güzellik sırlarından ilham alan pirinç sabunu, pirinç sütünün cilt aydınlatıcı ve nemlendirici etkilerini bir arada sunar. Gözenekleri sıkılaştırır, cilt tonunu eşitler ve doğal bir parlaklık kazandırır.",
     "ingredients": "Shea Butter Yağ, Zeytinyağı, Hindistan Cevizi Yağı, Pirinç unu, Pirinç taneleri, Pirinç suyu, Arıtılmış su, Sodyum Hidroksit (Kostik), Doğal Gliserin, Tuz",
     "usage": "Islak yüze köpürterek uygulayın. Günlük kullanıma uygundur.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/pirinc/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/pirinc/shop-gallery-3.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/pirinc/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/pirinc/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/pirinc/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/pirinc/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/pirinc/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/pirinc/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/pirinc/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/pirinc/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/pirinc/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/pirinc/shop-gallery-4.jpeg"
     ]
   },
   {
@@ -703,12 +703,12 @@ const PRODUCTS = [
     "description": "Dünyanın en değerli baharatlarından safranın cilt aydınlatıcı ve anti-aging özelliklerinden faydalanan lüks bir sabun. Cilt tonunu eşitler, leke görünümünü azaltır ve doğal bir parlaklık kazandırır.",
     "ingredients": "Zeytinyağı, Shea Butter Yağ, Hindistan Cevizi Yağı, Safran yağı, Safran tanecikleri, Su, Sodyum Hidroksit (Kostik), Doğal Gliserin, Tuz",
     "usage": "Islak yüze köpürterek uygulayın. Günde 1-2 kez kullanın. Güneş koruyucu ile birlikte kullanımı önerilir.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/safran/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/safran/shop-gallery-3.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/safran/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/safran/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/safran/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/safran/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/safran/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/safran/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/safran/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/safran/shop-gallery-2.jpeg"
     ]
   },
   {
@@ -724,13 +724,13 @@ const PRODUCTS = [
     "description": "Salyangoz müküsünün doğal kollajen ve allantoin içeriği sayesinde cildi yeniler, kırışıklık görünümünü azaltır ve cilt elastikiyetini artırır. Olgun ve yıpranmış ciltler için ideal bir bakım sabunudur.",
     "ingredients": "Zeytinyağı, Hindistan Cevizi Yağı, Salyangoz Özütü, Hyalüronik Asit, Kolajen, Sodyum Hidroksit, Saf Su",
     "usage": "Islak yüze nazikçe masaj yaparak uygulayın. Sabah ve akşam kullanıma uygundur.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/salyangoz/shop-gallery-4.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/salyangoz/shop-gallery-4.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/salyangoz/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/salyangoz/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/salyangoz/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/salyangoz/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/salyangoz/shop-gallery-3.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/salyangoz/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/salyangoz/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/salyangoz/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/salyangoz/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/salyangoz/shop-gallery-3.jpeg"
     ]
   },
   {
@@ -746,13 +746,13 @@ const PRODUCTS = [
     "description": "Sarımsağın saç üzerindeki kanıtlanmış etkilerini doğal sabun formunda sunar. Kokusuz formülü sayesinde rahatsızlık vermezken, zayıf saç köklerini uyarır ve yeni saç oluşumunu destekler.",
     "ingredients": "Sarımsak yağı, Sarımsak suyu, Sarımsak tanecikleri, Sodyum Hidroksit (Kostik), Su, Zeytinyağı, Hindistan Cevizi Yağı, Shea Butter Yağı, Doğal Gliserin, Tuz",
     "usage": "Saç derisine uygulayıp 3-4 dakika bekleterek durulayın.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/sarimsak/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/sarimsak/shop-gallery-3.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/sarimsak/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/sarimsak/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/sarimsak/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/sarimsak/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/sarimsak/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/sarimsak/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/sarimsak/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/sarimsak/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/sarimsak/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/sarimsak/shop-gallery-4.jpeg"
     ]
   },
   {
@@ -769,11 +769,11 @@ const PRODUCTS = [
     "description": "Tarihi çok eskilere dayanan sidr (arabistan kirazı) ağacının yapraklarıyla formüle edilmiştir. Saç ve cilt için doğal bir temizleyici ve arındırıcıdır, cilde ipeksi bir yumuşaklık verir.",
     "ingredients": "Sidre yağı, Zeytinyağı, Hindistan Cevizi Yağı, Sidre yaprakları, Sodyum Hidroksit (Kostik), Su, Doğal Gliserin, Tuz, Shea Butter Yağ",
     "usage": "Saç ve tüm vücut temizliğinde güvenle kullanabilirsiniz.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/sidr/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/sidr/shop-main.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/sidr/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/sidr/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/sidr/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/sidr/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/sidr/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/sidr/shop-gallery-2.jpeg"
     ]
   },
   {
@@ -790,11 +790,11 @@ const PRODUCTS = [
     "description": "Siirt yöresinin en kaliteli menengiç yağlarından geleneksel kazanlarda kaynatılarak üretilir. Beyazlamayı geciktirici etkisi olduğu bilinir ve saça doğal bir parlaklık katar.",
     "ingredients": "Bıttım yağı (Menengiç), Arıtılmış su, Sodyum Hidroksit (Kostik), Shea Butter Yağ, Hindistan Cevizi Yağı, Zeytinyağı, Doğal Gliserin, Tuz",
     "usage": "Saç temizliğinde kullanın. Başka bir şampuan ile birlikte kullanılması önerilmez.",
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/siir-bittim/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/siir-bittim/shop-main.jpeg",
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/siir-bittim/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/siir-bittim/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/siir-bittim/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/siir-bittim/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/siir-bittim/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/siir-bittim/shop-gallery-2.jpeg"
     ]
   },
   {
@@ -811,13 +811,13 @@ const PRODUCTS = [
     "usage": "Islak cilde köpürterek uygulayın.",
     "price": 230,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/yasemin/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/yasemin/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/yasemin/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/yasemin/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/yasemin/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/yasemin/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/yasemin/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/yasemin/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/yasemin/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/yasemin/shop-gallery-4.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/yasemin/shop-gallery-1.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/yasemin/shop-gallery-1.jpeg",
     "id": 36
   },
   {
@@ -833,13 +833,13 @@ const PRODUCTS = [
     "usage": "Yüze köpürterek masaj yapın.",
     "price": 230,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zerdecal/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zerdecal/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zerdecal/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zerdecal/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zerdecal/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zerdecal/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zerdecal/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zerdecal/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zerdecal/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zerdecal/shop-gallery-4.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zerdecal/shop-gallery-1.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zerdecal/shop-gallery-1.jpeg",
     "id": 37
   },
   {
@@ -856,13 +856,13 @@ const PRODUCTS = [
     "usage": "Bebeğin saç ve vücudunda güvenle kullanılabilir.",
     "price": 150,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zeytinyagli-bebek/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zeytinyagli-bebek/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zeytinyagli-bebek/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zeytinyagli-bebek/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zeytinyagli-bebek/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zeytinyagli-bebek/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zeytinyagli-bebek/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zeytinyagli-bebek/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zeytinyagli-bebek/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zeytinyagli-bebek/shop-gallery-4.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/zeytinyagli-bebek/shop-gallery-3.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/zeytinyagli-bebek/shop-gallery-3.jpeg",
     "id": 38
   },
   {
@@ -878,16 +878,16 @@ const PRODUCTS = [
     "usage": "Kese ile birlikte tüm vücutta kullanılabilir.",
     "price": 250,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-sabunu/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-sabunu/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-sabunu/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-sabunu/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-sabunu/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-sabunu/shop-gallery-5.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-sabunu/shop-gallery-6.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-sabunu/shop-gallery-7.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-sabunu/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-sabunu/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-sabunu/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-sabunu/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-sabunu/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-sabunu/shop-gallery-5.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-sabunu/shop-gallery-6.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-sabunu/shop-gallery-7.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-sabunu/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-sabunu/shop-main.jpeg",
     "id": 39
   },
   {
@@ -903,13 +903,13 @@ const PRODUCTS = [
     "usage": "Banyo öncesi kuru cilde, ayak bileklerinden kalbe doğru fırçalayın.",
     "price": 500,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili/shop-gallery-4.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili/shop-main.jpeg",
     "id": 40
   },
   {
@@ -925,9 +925,9 @@ const PRODUCTS = [
     "usage": "Banyo öncesi kuru fırçalama veya banyoda sabunla uygulanabilir.",
     "price": 500,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili-sirt/shop-main.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili-sirt/shop-main.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili-sirt/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili-sirt/shop-main.jpeg",
     "id": 41
   },
   {
@@ -943,13 +943,13 @@ const PRODUCTS = [
     "usage": "Kuru cilde nazikçe, aşağıdan yukarıya doğru fırçalayarak uygulayın.",
     "price": 300,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili-yuz/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili-yuz/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili-yuz/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili-yuz/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili-yuz/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili-yuz/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili-yuz/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili-yuz/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili-yuz/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili-yuz/shop-gallery-4.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/at-kili-yuz/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/at-kili-yuz/shop-main.jpeg",
     "id": 42
   },
   {
@@ -965,14 +965,14 @@ const PRODUCTS = [
     "usage": "Hamam ve sauna kullanımı içindir.",
     "price": 900,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/erkek-hamam/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/erkek-hamam/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/erkek-hamam/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/erkek-hamam/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/erkek-hamam/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/erkek-hamam/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/erkek-hamam/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/erkek-hamam/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/erkek-hamam/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/erkek-hamam/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/erkek-hamam/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/erkek-hamam/shop-gallery-5.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/erkek-hamam/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/erkek-hamam/shop-main.jpeg",
     "id": 43
   },
   {
@@ -988,11 +988,11 @@ const PRODUCTS = [
     "usage": "Banyo ve hamamda su dökmek için kullanılır.",
     "price": 270,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hamam-tasi/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hamam-tasi/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hamam-tasi/shop-gallery-2.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hamam-tasi/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hamam-tasi/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hamam-tasi/shop-gallery-2.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hamam-tasi/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hamam-tasi/shop-main.jpeg",
     "id": 44
   },
   {
@@ -1008,12 +1008,12 @@ const PRODUCTS = [
     "usage": "Hediyelik kullanım içindir.",
     "price": 120,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hediyelik-kutu/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hediyelik-kutu/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hediyelik-kutu/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hediyelik-kutu/shop-gallery-3.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hediyelik-kutu/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hediyelik-kutu/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hediyelik-kutu/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hediyelik-kutu/shop-gallery-3.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/hediyelik-kutu/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/hediyelik-kutu/shop-main.jpeg",
     "id": 45
   },
   {
@@ -1029,12 +1029,12 @@ const PRODUCTS = [
     "usage": "Kişisel bakım ritüelleri ve çeyizlik olarak idealdir.",
     "price": 900,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kadin-hamam/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kadin-hamam/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kadin-hamam/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kadin-hamam/shop-gallery-3.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kadin-hamam/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kadin-hamam/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kadin-hamam/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kadin-hamam/shop-gallery-3.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/kadin-hamam/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/kadin-hamam/shop-main.jpeg",
     "id": 46
   },
   {
@@ -1050,14 +1050,14 @@ const PRODUCTS = [
     "usage": "Nemli cilde nazikçe sürterek peeling uygulayın ve ılık suyla durulayın.",
     "price": 25,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/rusur-tasi/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/rusur-tasi/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/rusur-tasi/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/rusur-tasi/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/rusur-tasi/shop-gallery-4.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/rusur-tasi/shop-gallery-5.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/rusur-tasi/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/rusur-tasi/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/rusur-tasi/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/rusur-tasi/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/rusur-tasi/shop-gallery-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/rusur-tasi/shop-gallery-5.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/rusur-tasi/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/rusur-tasi/shop-main.jpeg",
     "id": 47
   },
   {
@@ -1073,13 +1073,13 @@ const PRODUCTS = [
     "usage": "Kurulanmak veya sarınmak için kullanılır.",
     "price": 400,
     "gallery": [
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-pestemal/shop-main.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-pestemal/shop-gallery-1.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-pestemal/shop-gallery-2.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-pestemal/shop-gallery-3.jpeg",
-      "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-pestemal/shop-gallery-4.jpeg"
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-pestemal/shop-main.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-pestemal/shop-gallery-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-pestemal/shop-gallery-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-pestemal/shop-gallery-3.jpeg",
+      "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-pestemal/shop-gallery-4.jpeg"
     ],
-    "mainImage": "https://raw.githubusercontent.com/Seglibrary/arin-assets/main/assets/images/products/turk-hamami-pestemal/shop-main.jpeg",
+    "mainImage": "https://cdn.jsdelivr.net/gh/Seglibrary/arin-assets@main/assets/images/products/turk-hamami-pestemal/shop-main.jpeg",
     "id": 48
   }
 ];
@@ -1365,4 +1365,5 @@ document.addEventListener('DOMContentLoaded', () => {
     };
   });
 });
+
 
